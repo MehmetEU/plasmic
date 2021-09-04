@@ -1,0 +1,29 @@
+{
+  "name": "plasmic-bot",
+  "version": "0.0.1",
+  "description": "Plasmic için yapılan Moderasyon botu.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ark.db": "^2.6.9",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.2",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
